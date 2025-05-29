@@ -1,0 +1,2 @@
+Mppt_PWM=Mppt_PWM1,Mppt_PWM2,Mppt_PWM3
+SOLAR_ADC=ADC_Iout_X+,ADC_Iout_Y-,ADC_Vout_XY,ADC_Iout_Z+,ADC_Iout_X-,ADC_Vout_ZX,ADC_Iout_Y+,ADC_Iout_Z-,ADC_Vout_YZ,ADC_Vout_Panels
