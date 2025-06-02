@@ -53,7 +53,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=EPS.PcbDoc
+DocumentPath=EPS_v1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -70,6 +70,23 @@ GenerateClassCluster=0
 DocumentUniqueId=RJHOKYIJ
 
 [Document2]
+DocumentPath=EPS_v2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ODXDAUHE
+
+[Document3]
 DocumentPath=Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -86,7 +103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKIOECJD
 
-[Document3]
+[Document4]
 DocumentPath=Assembly.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -103,7 +120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document5]
 DocumentPath=Documentation.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,7 +137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=Fabrication.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,7 +154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=SolarMppt.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,7 +171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKSWXYLV
 
-[Document7]
+[Document8]
 DocumentPath=3V3_EPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,7 +188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTOJEDYI
 
-[Document8]
+[Document9]
 DocumentPath=3V3_MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,7 +205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPNVCMFZ
 
-[Document9]
+[Document10]
 DocumentPath=3V3_VoltageReg.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,7 +222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BJLOXSET
 
-[Document10]
+[Document11]
 DocumentPath=5V0_VoltageReg.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLWTKRWE
 
-[Document11]
+[Document12]
 DocumentPath=UnRegPower.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -239,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDCHOOBR
 
-[Document12]
+[Document13]
 DocumentPath=SetResetIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDQUWTIA
 
-[Document13]
+[Document14]
 DocumentPath=PMIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MAJZCKBN
 
-[Document14]
+[Document15]
 DocumentPath=PMIC_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JQFSDFBA
 
-[Document15]
+[Document16]
 DocumentPath=PMIC_Watchdog.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,7 +324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHCXTEGH
 
-[Document16]
+[Document17]
 DocumentPath=PMIC_Crystal.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -324,7 +341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SUGABAOD
 
-[Document17]
+[Document18]
 DocumentPath=OR_Gate.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,7 +358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMHTXALC
 
-[Document18]
+[Document19]
 DocumentPath=PC104-52-52.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -358,7 +375,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJHNTGTK
 
-[Document19]
+[Document20]
 DocumentPath=Mram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -375,7 +392,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZILWUVGB
 
-[Document20]
+[Document21]
 DocumentPath=CAN1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -392,7 +409,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUTKUNNA
 
-[Document21]
+[Document22]
 DocumentPath=CAN2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -409,7 +426,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKICXKHH
 
-[Document22]
+[Document23]
 DocumentPath=PMIC_Debug.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -426,7 +443,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMHNFGFU
 
-[Document23]
+[Document24]
 DocumentPath=Ports.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -443,7 +460,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBDPIUJY
 
-[Document24]
+[Document25]
 DocumentPath=ActiveBOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -460,7 +477,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=PMIC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -477,7 +494,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=Top.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -494,7 +511,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document28]
 DocumentPath=PMIC_Debug.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -511,7 +528,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=SetResetIC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -528,7 +545,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document30]
 DocumentPath=Mram.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -545,7 +562,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=CAN1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -562,7 +579,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=CAN2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -579,7 +596,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document33]
 DocumentPath=SRIC_Peripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -596,7 +613,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSATOGQX
 
-[Document33]
+[Document34]
 DocumentPath=OR_Gate.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -613,7 +630,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document35]
 DocumentPath=PC104-52-52.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -630,7 +647,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document36]
 DocumentPath=Panels.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -647,7 +664,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZWRKYJPH
 
-[Document36]
+[Document37]
 DocumentPath=SolarMppt.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -664,7 +681,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document38]
 DocumentPath=Ports.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
