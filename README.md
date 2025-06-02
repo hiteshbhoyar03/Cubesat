@@ -6,13 +6,13 @@ Currently schmatic is completed, placement of component is done and pcb routing 
 Will initiate work on firmware for cubesat.
 
 
-EPS Schematic Done Routing DONE
+EPS               Schematic Done Routing DONE
 
-Sun Schematic Done Routing DONE
+Sunsensor         Schematic Done Routing DONE
 
-BATTERY BOARD Schematic Done Routing DONE
+BATTERY BOARD     Schematic Done Routing DONE
 
-OBC Schematic Done Routing DONE
+OBC               Schematic Done Routing DONE
 
-Altium schematic files and will be updated once the every couple days.
+Schematic files and will be updated once the every couple days.
 
