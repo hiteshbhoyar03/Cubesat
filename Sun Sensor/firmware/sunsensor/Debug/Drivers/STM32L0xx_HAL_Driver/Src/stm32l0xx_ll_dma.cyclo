@@ -1,0 +1,17 @@
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_dma.h:580:22:LL_DMA_ConfigTransfer	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_dma.h:933:22:LL_DMA_SetDataLength	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_dma.h:1018:22:LL_DMA_SetMemoryAddress	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_dma.h:1040:22:LL_DMA_SetPeriphAddress	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_dma.h:1207:22:LL_DMA_SetPeriphRequest	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_dma.h:1593:22:LL_DMA_ClearFlag_GI1	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_dma.h:1604:22:LL_DMA_ClearFlag_GI2	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_dma.h:1615:22:LL_DMA_ClearFlag_GI3	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_dma.h:1626:22:LL_DMA_ClearFlag_GI4	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_dma.h:1637:22:LL_DMA_ClearFlag_GI5	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_dma.h:1649:22:LL_DMA_ClearFlag_GI6	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_dma.h:1662:22:LL_DMA_ClearFlag_GI7	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_bus.h:299:22:LL_AHB1_GRP1_ForceReset	1
+../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_ll_bus.h:324:22:LL_AHB1_GRP1_ReleaseReset	1
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_ll_dma.c:150:13:LL_DMA_DeInit	22
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_ll_dma.c:275:13:LL_DMA_Init	1
+../Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_ll_dma.c:343:6:LL_DMA_StructInit	1
