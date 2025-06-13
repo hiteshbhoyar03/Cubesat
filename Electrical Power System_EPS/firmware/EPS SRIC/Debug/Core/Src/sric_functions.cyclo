@@ -1,0 +1,12 @@
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h:3187:26:LL_USART_IsActiveFlag_TXE	2
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h:4566:22:LL_USART_TransmitData8	1
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:956:22:LL_GPIO_SetOutputPin	1
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_gpio.h:985:22:LL_GPIO_ResetOutputPin	1
+../Core/Src/sric_functions.c:14:15:PMIC_2_SRIC_Check_CHKSUM	4
+../Core/Src/sric_functions.c:26:6:PMIC_2_SRIC_Parsing	1
+../Core/Src/sric_functions.c:46:6:PMIC_SRIC_USART2_Initialization	1
+../Core/Src/sric_functions.c:51:15:OBC_2_SRIC_Check_CHKSUM	4
+../Core/Src/sric_functions.c:64:6:OBC_2_SRIC_Parsing	1
+../Core/Src/sric_functions.c:84:6:OBC_SRIC_USART3_Initialization	1
+../Core/Src/sric_functions.c:91:6:SRIC_CONFIG_SAT_POWER	13
+../Core/Src/sric_functions.c:175:6:SEND_DATA_UART	4

@@ -1657,15 +1657,15 @@ LOAD C:/ST/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
 LOAD C:/ST/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
 LOAD C:/ST/STM32CubeIDE_1.17.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp\libgcc.a
 
-.debug_info     0x00000000     0x34a0
- .debug_info    0x00000000     0x16ac ./Core/Src/main.o
- .debug_info    0x000016ac      0x1c4 ./Core/Src/stm32l0xx_it.o
- .debug_info    0x00001870      0x2c9 ./Core/Src/system_stm32l0xx.o
- .debug_info    0x00001b39       0x30 ./Core/Startup/startup_stm32l031g6ux.o
- .debug_info    0x00001b69      0x742 ./Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_ll_adc.o
- .debug_info    0x000022ab      0x567 ./Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_ll_gpio.o
- .debug_info    0x00002812      0x424 ./Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_ll_spi.o
- .debug_info    0x00002c36      0x86a ./Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_ll_utils.o
+.debug_info     0x00000000     0x349f
+ .debug_info    0x00000000     0x16ab ./Core/Src/main.o
+ .debug_info    0x000016ab      0x1c4 ./Core/Src/stm32l0xx_it.o
+ .debug_info    0x0000186f      0x2c9 ./Core/Src/system_stm32l0xx.o
+ .debug_info    0x00001b38       0x30 ./Core/Startup/startup_stm32l031g6ux.o
+ .debug_info    0x00001b68      0x742 ./Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_ll_adc.o
+ .debug_info    0x000022aa      0x567 ./Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_ll_gpio.o
+ .debug_info    0x00002811      0x424 ./Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_ll_spi.o
+ .debug_info    0x00002c35      0x86a ./Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_ll_utils.o
 
 .debug_abbrev   0x00000000      0xd13
  .debug_abbrev  0x00000000      0x337 ./Core/Src/main.o

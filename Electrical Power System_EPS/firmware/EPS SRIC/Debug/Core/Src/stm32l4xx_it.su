@@ -1,0 +1,17 @@
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:1644:26:LL_DMA_IsActiveFlag_TC1	16	static
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_dma.h:1980:22:LL_DMA_ClearFlag_TC1	16	static
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h:3147:26:LL_USART_IsActiveFlag_RXNE	16	static
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h:4543:25:LL_USART_ReceiveData8	16	static
+../Core/Src/stm32l4xx_it.c:87:6:NMI_Handler	4	static
+../Core/Src/stm32l4xx_it.c:102:6:HardFault_Handler	4	static
+../Core/Src/stm32l4xx_it.c:117:6:MemManage_Handler	4	static
+../Core/Src/stm32l4xx_it.c:132:6:BusFault_Handler	4	static
+../Core/Src/stm32l4xx_it.c:147:6:UsageFault_Handler	4	static
+../Core/Src/stm32l4xx_it.c:162:6:SVC_Handler	4	static
+../Core/Src/stm32l4xx_it.c:175:6:DebugMon_Handler	4	static
+../Core/Src/stm32l4xx_it.c:188:6:PendSV_Handler	4	static
+../Core/Src/stm32l4xx_it.c:201:6:SysTick_Handler	4	static
+../Core/Src/stm32l4xx_it.c:222:6:DMA1_Channel1_IRQHandler	8	static
+../Core/Src/stm32l4xx_it.c:240:6:USART1_IRQHandler	8	static
+../Core/Src/stm32l4xx_it.c:262:6:USART2_IRQHandler	8	static
+../Core/Src/stm32l4xx_it.c:304:6:USART3_IRQHandler	8	static
